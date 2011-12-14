@@ -355,7 +355,7 @@ $picture_controls = LgRemote::OrderedHash[
 $audio_controls = LgRemote::OrderedHash[
   :volume_up, 2,
   :volume_down, 3,
-  :mute, 4,
+  :mute, 9,
   :audio_language, 10,
   :sound_mode, 82,
   :factory_sound_check, 253,
