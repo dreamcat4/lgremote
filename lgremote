@@ -804,7 +804,7 @@ def pair_interactive
     say "Both computer + TV are on the same LAN segment."
     say "uPNP is enabled on the local router."
     say " * Not all of LG's DLNA capable TVs are Smart TVs."
-
+    exit 1
   when 1
     puts "One TV found"
     puts replies.first.inspect
