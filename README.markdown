@@ -4,14 +4,16 @@ A command line program to remotely control 2011 LG "Smart" TVs.
 
 Supported models:
 
-    Any 2011 or later LG TVs labelled "Smart TV"
+    Any 2011 LG TVs labelled "Smart TV"*
 
     For example:
     LV5500,LW5500,LW6500,LW7700,LW9800
     LV550x,LW550x,LW650x,LW770x,LW980x
     LV550T,LW550T,LW650T,LW770T,LW980T
 
-This program is strictly only meant for LG "Smart TV" devices and not compatible with any other LG products (blue-ray players, phones, etc).
+This program is strictly only meant for LG "Smart TV" devices and not compatible with any other LG products (blue-ray players, phones, etc).*
+
+This script may no longer work with newer "LG SMART TV" models released after 2011.
 
 ## Networking Requirements
 
