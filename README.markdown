@@ -13,7 +13,9 @@ Supported models:
 
 This program is strictly only meant for LG "Smart TV" devices and not compatible with any other LG products (blue-ray players, phones, etc).*
 
-This script may no longer work with newer "LG SMART TV" models released after 2011.
+This script may no longer work with newer "LG SMART TV" models released after 2011. They now use the "ROAP" protocol. So if you see an error, try "lgCommander" instead:
+
+https://github.com/ubaransel/lgcommander
 
 ## Networking Requirements
 
